@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts V3</string>
+
+    <string name="titre_liste">Mes contacts</string>
+    <string name="titre_detail">Fiche contact</string>
+    <string name="titre_carte">Position de %1$s</string>
+
+    <string name="hint_recherche">Rechercher (nom, prénom, téléphone)</string>
+    <string name="aucun_resultat">Aucun contact ne correspond à « %1$s »</string>
+    <string name="liste_vide">Aucun contact</string>
+    <string name="nb_contacts">%1$d contact(s)</string>
+
+    <string name="hint_nom">Nom *</string>
+    <string name="hint_prenom">Prénom *</string>
+    <string name="hint_telephone">Téléphone *</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_latitude">Latitude (−90 à 90)</string>
+    <string name="hint_longitude">Longitude (−180 à 180)</string>
+    <string name="section_gps">Coordonnées GPS</string>
+    <string name="aide_gps">Laisser les deux champs vides si aucune position n’est définie.</string>
+
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_galerie">Galerie</string>
+    <string name="btn_camera">Caméra</string>
+    <string name="btn_carte">Voir sur la carte</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_annuler">Annuler</string>
+    <string name="desc_photo">Photo du contact</string>
+
+    <string name="err_obligatoire">Champ obligatoire</string>
+    <string name="err_telephone">Numéro de téléphone invalide</string>
+    <string name="err_email">Adresse e-mail invalide</string>
+    <string name="err_non_numerique">Valeur numérique attendue</string>
+    <string name="err_latitude">La latitude doit être comprise entre −90 et 90</string>
+    <string name="err_longitude">La longitude doit être comprise entre −180 et 180</string>
+    <string name="err_gps_incomplet">Renseigner latitude ET longitude, ou laisser les deux vides</string>
+    <string name="err_formulaire">Veuillez corriger les champs signalés</string>
+
+    <string name="msg_enregistre">Contact enregistré</string>
+    <string name="msg_annule">Modifications annulées</string>
+    <string name="msg_contact_introuvable">Contact introuvable</string>
+    <string name="msg_pas_telephone">Numéro de téléphone absent</string>
+    <string name="msg_pas_email">Adresse e-mail absente</string>
+    <string name="msg_pas_app_tel">Aucune application téléphone disponible</string>
+    <string name="msg_pas_app_mail">Aucune application de messagerie disponible</string>
+    <string name="msg_pas_app_camera">Aucune application caméra disponible</string>
+    <string name="msg_pas_galerie">Aucune galerie disponible</string>
+    <string name="msg_photo_annulee">Aucune photo sélectionnée</string>
+    <string name="msg_camera_annulee">Prise de photo annulée</string>
+    <string name="msg_photo_ok">Photo mise à jour (pensez à enregistrer)</string>
+    <string name="msg_carte_modifs">Coordonnées non enregistrées : la carte affiche la position enregistrée</string>
+    <string name="msg_pas_coordonnees">Ce contact n’a pas de coordonnées GPS enregistrées.\nRenseignez une latitude et une longitude dans la fiche, puis enregistrez.</string>
+    <string name="msg_coordonnees_invalides">Coordonnées invalides (latitude %1$s, longitude %2$s).\nLa latitude doit être entre −90 et 90 et la longitude entre −180 et 180.</string>
+    <string name="msg_retour_detail">Retour à la fiche</string>
+</resources>
