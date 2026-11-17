@@ -4,11 +4,6 @@ Application Kotlin / XML : **une seule activité** (`MainActivity`) et trois fra
 (`ListeContactsFragment`, `DetailContactFragment`, `CarteContactFragment`), RecyclerView filtrable
 et affichage de la position GPS des contacts sur Google Maps.
 
-## Ouvrir et lancer le projet
-
-1. Android Studio (Ladybug ou plus récent) → **File › Open** → dossier `ContactsV3`.
-2. Laisser Gradle synchroniser (AGP 8.7, Kotlin 2.0, compileSdk 35, minSdk 26).
-3. Configurer la clé Google Maps (ci-dessous), puis **Run** sur un émulateur *avec Google Play*.
 
 ## Clé Google Maps (jamais publiée)
 
